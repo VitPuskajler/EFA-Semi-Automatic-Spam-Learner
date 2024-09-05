@@ -1,4 +1,4 @@
-**First things first. You need to change three things to make this work:**
+**First things first. You need to change three lines to make this work:**
 
 1. Line 35 – Insert the path to your batch file that opens your VPN client (ignore this if you are on the same network as your EFA).
 2. Line 92/95 – Insert your username/password for your EFA. Alternatively, use environmental variables for increased security.
