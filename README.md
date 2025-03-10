@@ -27,9 +27,3 @@ EFA Assistant is a semi-automated tool designed to streamline the tedious task o
 
 3. **EFA URL:**  
    Set the correct URL or IP address for your EFA in the `url` variable.
-
-## Usage
-
-1. Run the program:
-   ```bash
-   python efa_assistant.py
