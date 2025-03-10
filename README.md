@@ -12,7 +12,7 @@ EFA Assistant is a semi-automated tool designed to streamline the tedious task o
 
 ## Prerequisites
 
-- Python 3.x
+- <b> Python 3.x </b>
 - [Selenium](https://selenium-python.readthedocs.io/)
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [Chrome WebDriver](https://sites.google.com/a/chromium.org/chromedriver/) (compatible with your installed version of Google Chrome)
